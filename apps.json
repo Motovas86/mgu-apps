@@ -1,0 +1,13 @@
+{
+    "apps":  [
+                 {
+                     "id":  "m_vitals_plus",
+                     "name":  "M Vitals+",
+                     "releaseTag":  "m_vitals_plus@0.1.1",
+                     "asset":  "m_vitals_plus@0.1.1.tgz",
+                     "description":  "Boost, temperatures, oil pressure, lambda, knock and misfire counters for MGU",
+                     "author":  "custom",
+                     "version":  "0.1.1"
+                 }
+             ]
+}
